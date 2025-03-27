@@ -2,7 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Desktop view
 ![alt text](image.png)
+
+
+
+
+## Mobile view
+![image](https://github.com/user-attachments/assets/eddcd442-180d-4336-8430-e6a8fc258544)  ![image](https://github.com/user-attachments/assets/167d8f73-9a24-454c-a8f3-b2fe55428633)
 
 ## Available Scripts
 
